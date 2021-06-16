@@ -1,3 +1,5 @@
+import numpy as np 
+
 class kmer_featurization:
 
   def __init__(self, k):
